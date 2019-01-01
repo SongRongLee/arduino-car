@@ -9,3 +9,6 @@ A basic script for auto distance-detecting arduino car.
 This is the behavior of the car from this script.  
 
 ![Flow Chart](https://i.imgur.com/k27CAQN.png)
+
+## License
+[MIT License](https://github.com/SongRongLee/arduino-car/blob/master/LICENSE)
